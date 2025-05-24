@@ -1,0 +1,19 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>resourcesPNG/profileBeige.png</file>
+    <file>resourcesPNG/profileDark.png</file>
+    <file>resourcesPNG/calendarBeige.png</file>
+    <file>resourcesPNG/calendarDark.png</file>
+    <file>resourcesPNG/homeBeige.png</file>
+    <file>resourcesPNG/homeDark.png</file>
+    <file>resourcesPNG/play.png</file>
+    <file>resourcesPNG/pomodoroBeige.png</file>
+    <file>resourcesPNG/pomodoroDark.png</file>
+    <file>resourcesPNG/settings.png</file>
+    <file>resourcesPNG/sort.png</file>
+    <file>resourcesPNG/stop.png</file>
+    <file>resourcesPNG/momentumLogo.png</file>
+    <file>resourcesPNG/taskBeige.png</file>
+    <file>resourcesPNG/taskDark.png</file>
+  </qresource>
+</RCC>

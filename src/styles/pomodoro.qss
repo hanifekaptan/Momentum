@@ -1,0 +1,62 @@
+* {
+    font-family: "Golos Text Medium";
+    background-color: #1c1c1c;
+    color: #e8e9e0;
+    font-size: 14px;
+}
+
+.QPushButton {
+    padding: 10px;
+    border: none;
+    background: transparent;
+    opacity: 0;
+}
+
+.QLabel {
+    padding-left: 15px;
+}
+
+#pomodoroButton {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+
+#menuFrame {
+    border-right: 1px solid #505050;
+    padding-right: 15px;
+}
+
+#title {
+    font-size: 25px;
+}
+
+QSlider::groove:horizontal {
+    background-color: #e8e9e0;
+    height: 10px;
+    border: 1px solid #e8e9e0;
+    border-radius: 5px;
+}
+
+QSlider::sub-page:horizontal {
+    background: #a8bf90;
+    height: 10px;
+    border: 1px solid #e8e9e0;
+    border-radius: 5px;
+}
+
+QSlider::add-page:horizontal {
+    background: #e8e9e0;
+    height: 10px;
+    border: 1px solid #e8e9e0;
+    border-radius: 5px;
+}
+
+#presentTime {
+    font-size: 150px;
+}
+
+#previousTime,
+#nextTime {
+    font-size: 65px;
+}

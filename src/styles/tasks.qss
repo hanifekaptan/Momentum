@@ -1,0 +1,75 @@
+* {
+    font-family: "Golos Text Medium";
+    background-color: #1c1c1c;
+    color: #e8e9e0;
+    font-size: 14px;
+}
+
+.QPushButton {
+    padding: 10px;
+    border: none;
+    background: transparent;
+    opacity: 0;
+}
+
+.QLabel {
+    padding-left: 15px;
+}
+
+#tasksButton {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+
+#menuFrame {
+    border-right: 1px solid #505050;
+    padding-right: 15px;
+}
+
+#contentFrame .QScrollArea .QCheckBox {
+    border: 2px solid transparent;
+    border-radius: 25px;
+    background: #2a2a2a;
+    padding: 13px;
+}
+
+#contentFrame .QScrollArea .QCheckBox:hover {
+    padding: 10px;
+    font-size: 15px;
+    background: #373737;
+}
+
+#contentFrame #enterNewTask {
+    border-top: 1px solid #505050;
+    border-radius: 13px;
+    background: #2a2a2a;
+    padding: 10px;
+}
+
+#title {
+    font-size: 25px;
+}
+
+#contentFrame #tasksArea #sorting {
+    background-color: transparent;
+}
+
+#contentFrame #tasksArea .QScrollBar:vertical {
+    margin: 4px;
+    border: 2px solid #839671;
+    border-radius: 5px;
+    background-color: #ffffff;
+}
+
+#contentFrame #tasksArea .QScrollBar:handle:vertical {
+    background-color: #c6e5ad;
+    border: 2px solid #839671;
+    border-radius: 5px;
+    min-height: 30px;
+}
+
+#contentFrame #tasksArea .QScrollBar:handle:vertical:hover,
+#contentFrame #tasksArea .SQcrollBar:handle:vertical:pressed {
+    background-color: #a8bf90;
+}

@@ -1,0 +1,77 @@
+* {
+    font-family: "Golos Text Medium";
+    background-color: #1c1c1c;
+    color: #e8e9e0;
+    font-size: 14px;
+}
+
+.QPushButton {
+    padding: 10px;
+    border: none;
+    background: transparent;
+    opacity: 0;
+}
+
+.QLabel {
+    padding-left: 15px;
+    font-size: 18px;
+    min-width: 200px;
+}
+
+#calendarButton {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+
+#menuFrame {
+    border-right: 1px solid #505050;
+    padding-right: 15px;
+}
+
+#title {
+    font-size: 25px;
+}
+
+#descriptionFrame {
+    border-left: 2px solid #373737;
+}
+
+QCalendarWidget QWidget {
+    font-size: 18px;
+    background-color: transparent;
+    padding: 3px;
+    color: #e8e9e0;
+}
+
+QCalendarWidget QToolButton {
+    font-size: 23px;
+    padding: 5px;
+    color: #e8e9e0;
+}
+
+QCalendarWidget QAbstractItemView {
+    background-color: #2a2a2a;
+    border: 2px solid #e8e9e0;
+    border-radius: 15px;
+    padding: 10px;
+    padding-right: 0px;
+    padding-bottom: -2px;
+    margin: 5px;
+    selection-background-color: #c6e5ad;
+    selection-color: #2a2a2a;
+}
+
+
+
+
+
+
+
+
+QCalendarWidget QAbstractItemView::item:selected {
+    background-color: #2196F3;
+    color: white;
+    border: 2px solid red;
+    border-radius: 15px;
+}

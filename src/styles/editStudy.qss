@@ -1,0 +1,61 @@
+* {
+    font-family: "Golos Text Medium";
+    background-color: #1c1c1c;
+    color: #e8e9e0;
+    font-size: 16px;
+}
+
+.QPushButton {
+    padding: 10px;
+    background: transparent;
+    border: 1px solid transparent;
+    border-radius: 15px;
+    min-width: 60px;
+}
+
+#saveButton {
+    background-color: #839671;
+}
+
+#cancelButton {
+    background-color: #b74005;
+}
+
+#deleteButton {
+    background-color: #ddc151;
+}
+
+#saveButton:hover,
+#cancelButton:hover,
+#deleteButton:hover {
+    border-color: #e8e9e0;
+}
+
+.QLabel {
+    padding-left: 15px;
+    max-height: 50px;
+}
+
+.QFrame .QLabel {
+    max-width: 120px;
+}
+
+#controlFrame {
+    max-height: 70px;
+}
+
+.QTimeEdit {
+    border: 1px solid #e8e9e0;
+    border-radius: 10px;
+    padding: 3px;
+    background-color: transparent;
+    margin-right: 20px;
+}
+
+.QTimeEdit:hover {
+    background-color: #2a2a2a;
+}
+
+#title {
+    font-size: 20px;
+}

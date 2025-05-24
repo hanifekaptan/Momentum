@@ -1,0 +1,82 @@
+* {
+    font-family: "Golos Text Medium";
+    background-color: #1c1c1c;
+    color: #e8e9e0;
+    font-size: 14px;
+}
+
+.QPushButton {
+    padding: 10px;
+    border: none;
+    background: transparent;
+    opacity: 0;
+}
+
+.QLabel {
+    padding-left: 15px;
+    background-color: transparent;
+}
+
+#profileButton {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: #f5f5f5;
+}
+
+#menuFrame{
+    border-right: 1px solid #505050;
+    padding-right: 15px;
+}
+
+#profileFrame .QLabel{
+    border: none;
+    font-size: 20px;
+}
+
+#profileFrame #PomodoroCounterOutput,
+#profileFrame #totalBreakTimeOutput,
+#profileFrame #totalStudyTimeOutput {
+    font-weight: bold;
+    font-size: 40px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    background-color:rgb(231, 247, 255);
+    color: #1c1c1c;
+}
+
+#saveChangesButton {
+    border: 1px solid transparent;
+    border-radius: 25px;
+    background-color: #e8e9e0;
+    color: #1c1c1c;
+    min-width: 100px;
+    min-height: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#pomodoroGraph {
+    padding-left: 60px;
+}
+
+#settingsFrame .QLabel{
+    font-size: 16px;
+    border: none;
+    background-color: transparent;
+}
+
+#settingsFrame .QLineEdit,
+#settingsFrame .QComboBox,
+#settingsFrame .QDateEdit {
+    border: 1px solid #505050;
+    border-radius: 15px;
+    font-size: 16px;
+    min-width: 200px;
+    min-height: 30px;
+    padding: 3px;
+    padding-left: 10px;
+}
+
+#title {
+    font-size: 25px;
+}
