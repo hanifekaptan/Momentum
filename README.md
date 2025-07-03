@@ -1,6 +1,6 @@
-# Momentum Zaman Yönetimi Uygulaması
+# Momentum: Zaman Yönetimi ve Verimlilik Uygulaması
 
-## 1. Uygulama Özeti
+## 1. Özet
 
 Momentum, kullanıcıların görevlerini ve zamanlarını etkin bir şekilde yönetmelerine yardımcı olmak için tasarlanmış kapsamlı bir zaman yönetimi uygulamasıdır. Uygulama, kişisel üretkenliği artırmayı hedefleyen bir görevlendirme ve ajanda mantığı ile çalışır. Ayrıca, popüler Pomodoro Tekniği'ni entegre ederek odaklanmış çalışma süreleri sunar. Python programlama dili ile geliştirilmiş olup, kullanıcı arayüzü için PyQt5, veri depolama için SQLite ve stil için QSS kullanılmıştır.
 
