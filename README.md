@@ -72,7 +72,7 @@ Momentum uygulaması, kullanıcıların günlük işlerini ve uzun vadeli hedefl
 *   **Görev Yönetimi:** Kullanıcılar, görevlerini ekleyebilir, düzenleyebilir, tamamlandı olarak işaretleyebilir ve önceliklerini belirleyebilir. Bu sayede yapılacaklar listeleri her zaman güncel kalır.
 *   **Ajanda ve Takvim Entegrasyonu:** Uygulama, görevleri bir takvim ve ajanda görünümünde sergileyerek kullanıcıların programlarını görselleştirmesine yardımcı olur. Belirli tarihlere atanan görevler kolayca takip edilebilir.
 *   **Pomodoro Zaman Yönetimi:** Üretkenliği artırmak için Pomodoro Tekniği entegre edilmiştir. Kullanıcılar, odaklanmış çalışma seansları (örneğin 25 dakika) ve kısa molalar (örneğin 5 dakika) arasında geçiş yaparak dikkat dağınıklığını en aza indirebilir ve verimliliklerini artırabilir.
-*   **Performans Düzeni Analizi:** Kullanıcı verilerine dayanarak çalışma düzeni, görev ve başarı oranlarına ilişkin analizler sunarak performansın takip edilip değerlendirilmesine katkı sağlar.
+*   **Performans Analizi:** Kullanıcı verilerine dayanarak çalışma düzeni, görev ve başarı oranlarına ilişkin analizler sunarak performansın takip edilip değerlendirilmesine katkı sağlar.
 *   **Kullanıcı Dostu Arayüz:** PyQt5 ile geliştirilen modern ve sezgisel arayüz, uygulamanın kolayca kullanılmasını sağlar.
 *   **Veri Kalıcılığı:** Tüm görevler, Pomodoro kayıtları ve kullanıcı ayarları, hafif ve güvenilir bir ilişkisel veritabanı olan SQLite üzerinde güvenli bir şekilde saklanır. Bu, verilerin uygulama kapatıldıktan sonra bile korunmasını sağlar.
 
