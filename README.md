@@ -85,20 +85,13 @@ Momentum uygulaması, kullanıcıların günlük işlerini ve uzun vadeli hedefl
 
 ## 4. Uygulama Görselleri
 
-![Hoşgeldin](![welcome](https://github.com/user-attachments/assets/b52b62d5-24d0-4b64-a3c1-27a1d6bf056c)
-)
-![Görevler](![tasks](https://github.com/user-attachments/assets/1b8e22ef-f3a1-439b-903d-799d9d9a7124)
-)
-![Görevi Düzenle](![editTask](https://github.com/user-attachments/assets/fdbf2996-3c3d-4b74-b033-f2d218d67ff4)
-)
-![Takvim](![calendar](https://github.com/user-attachments/assets/18f6d44b-fca5-4dbf-987c-653d0936abd5)
-)
-![Pomodoro](![pomodoro](https://github.com/user-attachments/assets/2a76c7c3-6eb8-41e8-9360-18b15b237d48)
-)
-![Çalışma Saatlerini Düzenle](![editStudy](https://github.com/user-attachments/assets/d6eac9ae-a787-4444-9a52-ac3ce397e240)
-)
-![Profil](![profile](https://github.com/user-attachments/assets/1bf2b452-732c-458a-969b-8ce5dcb53048)
-)
+![welcome](https://github.com/user-attachments/assets/b52b62d5-24d0-4b64-a3c1-27a1d6bf056c)
+![tasks](https://github.com/user-attachments/assets/1b8e22ef-f3a1-439b-903d-799d9d9a7124)
+![editTask](https://github.com/user-attachments/assets/fdbf2996-3c3d-4b74-b033-f2d218d67ff4)
+![calendar](https://github.com/user-attachments/assets/18f6d44b-fca5-4dbf-987c-653d0936abd5)
+![pomodoro](https://github.com/user-attachments/assets/2a76c7c3-6eb8-41e8-9360-18b15b237d48)
+![editStudy](https://github.com/user-attachments/assets/d6eac9ae-a787-4444-9a52-ac3ce397e240)
+![profile](https://github.com/user-attachments/assets/1bf2b452-732c-458a-969b-8ce5dcb53048)
 
 ## 5. Uygulama Kurulumu
 
