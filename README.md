@@ -1,13 +1,11 @@
 # Momentum: Zaman Yönetimi ve Verimlilik Uygulaması
 
-## 1. Özet
-
 Momentum, kullanıcıların görevlerini ve zamanlarını etkin bir şekilde yönetmelerine yardımcı olmak için tasarlanmış kapsamlı bir zaman yönetimi uygulamasıdır. Uygulama, kişisel üretkenliği artırmayı hedefleyen bir görevlendirme ve ajanda mantığı ile çalışır. Ayrıca, popüler Pomodoro Tekniği'ni entegre ederek odaklanmış çalışma süreleri sunar. Python programlama dili ile geliştirilmiş olup, kullanıcı arayüzü için PyQt5, veri depolama için SQLite ve stil için QSS kullanılmıştır.
 
-## 2. Uygulama Dosya Yapısı
+## Dosya Yapısı
 
 ```
-momentum/
+momentum-time-manager/
 ├── src/
 │   ├── core/
 │   │   ├── databaseManagement
@@ -65,9 +63,7 @@ momentum/
 └── requirements.txt
 ```
 
-## 3. Uygulama Özellikleri
-
-Momentum uygulaması, kullanıcıların günlük işlerini ve uzun vadeli hedeflerini kolayca yönetmelerini sağlayan bir dizi güçlü özellik sunar:
+## Özellikler
 
 *   **Görev Yönetimi:** Kullanıcılar, görevlerini ekleyebilir, düzenleyebilir, tamamlandı olarak işaretleyebilir ve önceliklerini belirleyebilir. Bu sayede yapılacaklar listeleri her zaman güncel kalır.
 *   **Ajanda ve Takvim Entegrasyonu:** Uygulama, görevleri bir takvim ve ajanda görünümünde sergileyerek kullanıcıların programlarını görselleştirmesine yardımcı olur. Belirli tarihlere atanan görevler kolayca takip edilebilir.
@@ -83,7 +79,7 @@ Momentum uygulaması, kullanıcıların günlük işlerini ve uzun vadeli hedefl
 *   **SQLite:** Uygulama içi veri depolama için kullanılan hafif, sunucusuz bir ilişkisel veritabanı sistemidir. Uygulamanın görevleri, Pomodoro seansları, kullanıcı ayarları gibi tüm verileri `momentum_database.db` dosyasında saklanır.
 *   **QSS (Qt Style Sheets):** Qt tabanlı uygulamaların görünümünü CSS benzeri bir sözdizimi ile özelleştirmek için kullanılır. Momentum'un arayüz temaları ve stil özellikleri QSS dosyaları aracılığıyla yönetilir.
 
-## 4. Uygulama Görselleri
+## Uygulama Görselleri
 
 ![welcome](https://github.com/user-attachments/assets/b52b62d5-24d0-4b64-a3c1-27a1d6bf056c)
 ![tasks](https://github.com/user-attachments/assets/1b8e22ef-f3a1-439b-903d-799d9d9a7124)
@@ -93,15 +89,15 @@ Momentum uygulaması, kullanıcıların günlük işlerini ve uzun vadeli hedefl
 ![editStudy](https://github.com/user-attachments/assets/d6eac9ae-a787-4444-9a52-ac3ce397e240)
 ![profile](https://github.com/user-attachments/assets/1bf2b452-732c-458a-969b-8ce5dcb53048)
 
-## 5. Uygulama Kurulumu
+## Uygulama Kurulumu
 
 Uygulamayı yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Depoyu Klonlayın:**
 
     ```bash
-    git clone https://github.com/hanifekaptan/momentum.git
-    cd momentum
+    git clone https://github.com/hanifekaptan/momentum-time-manager.git
+    cd momentum-time-manager
     ```
 
 2.  **Sanal Ortam Oluşturun:**
